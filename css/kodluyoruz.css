@@ -1,0 +1,33 @@
+/* Aciklama Satiri*/
+
+
+/* class -> .text-red {} */
+/* id-> #id-bilgisi {} */
+
+.font-background {
+
+    color: black;
+}
+
+
+.text-red {
+    color:red;
+}
+
+.fs-small {
+ font: 14px;
+ 
+}
+
+
+.fs-medium {
+
+   font: 20px; 
+}
+
+.fs-large {
+ font: 30px;
+}
+
+
+

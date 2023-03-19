@@ -1,0 +1,72 @@
+
+/****************************************Explanation***************************************************/
+
+
+
+body {
+    
+        background-color: rgb(0, 0, 0);
+      
+}
+
+#Title {
+    text-align: left;
+    text-shadow: 0cqmax;
+    color: crimson;
+    font-size: large;
+
+}
+
+#SubTitle {
+    text-align: center;
+    text-shadow: 0cqmax;
+    color: crimson;
+}
+
+p { 
+    text-align: center;
+    color: rgb(21, 255, 21);
+}
+
+ul {
+
+    text-align: center;
+}
+
+#Nav {
+    column-span;
+    display:block;
+    text-align: center;
+    color: azure;
+    list-style: none;
+}
+
+h3 {
+    text-align: center;
+    color: azure;
+
+}
+
+ul {
+    text-align: center;
+    color: rgb(4, 243, 44);
+}
+
+
+#ProductImage {
+    text-align: right;
+}
+
+#ProductDescription {
+    text-align: left;
+}
+
+#ProductList {
+    list-style: none;
+}
+
+
+.ProductTitle {
+    color: rgb(0, 255, 13);
+    text-align: center;
+}
